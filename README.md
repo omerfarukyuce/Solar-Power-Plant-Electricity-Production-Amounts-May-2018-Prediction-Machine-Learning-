@@ -1,5 +1,4 @@
-# 🌞![image](https://github.com/user-attachments/assets/e8f63ea5-838f-4d2b-89e4-a81d83dd9e48)
- Ikitelli Solar Energy Production Analysis
+# 🌞 Ikitelli Solar Energy Production Analysis
 
 This project is developed to analyze the electricity production data of the **Ikıtelli Solar Energy Plant** for May 2018 and to make production predictions using machine learning models.
 
