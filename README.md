@@ -63,11 +63,18 @@ The project includes the following steps:
 
 At the end of the project, the performances of different models were compared, and the best-performing model was identified. Additionally, the prediction results were visualized.
 
-- **Best Model:** [RandomForestRegressor]
-- **Success Rate:** [0.8644110671548526]
+- **Best Model:** Random Forest Regressor
+- **Success Rate:** 0.8644110671548526
 
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 🔍 Code And Kaggle Link
+Project: []()
+
+Kaggle: []()
+
+## 📊 Datasets
+Dataset: [Dataset]()
