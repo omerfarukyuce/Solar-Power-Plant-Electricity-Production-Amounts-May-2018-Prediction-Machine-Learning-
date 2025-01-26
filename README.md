@@ -13,14 +13,23 @@ This project is developed to analyze the electricity production data of the **Ik
 ## 🚀 Installation
 
 To install the necessary libraries for the project, you can use the following commands:
+
 !pip install lightgbm
+
 !pip install fbprophet
+
 !pip install pandas
+
 !pip install numpy
+
 !pip install matplotlib
+
 !pip install seaborn
+
 !pip install xgboost
+
 !pip install scikit-learn
+
 
 
 ## 📊 Dataset
