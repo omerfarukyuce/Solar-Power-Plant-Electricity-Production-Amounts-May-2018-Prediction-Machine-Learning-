@@ -63,8 +63,8 @@ The project includes the following steps:
 
 At the end of the project, the performances of different models were compared, and the best-performing model was identified. Additionally, the prediction results were visualized.
 
-- **Best Model:** [Model Name]
-- **Success Rate:** [Success Rate]
+- **Best Model:** [RandomForestRegressor]
+- **Success Rate:** [0.8644110671548526]
 
 
 ## 📄 License
