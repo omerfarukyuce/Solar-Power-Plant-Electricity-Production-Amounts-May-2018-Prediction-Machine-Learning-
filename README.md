@@ -1,4 +1,4 @@
-# 🌞 Ikıtelli Solar Energy Production Analysis
+# 🌞 Ikitelli Solar Energy Production Analysis
 
 This project is developed to analyze the electricity production data of the **Ikıtelli Solar Energy Plant** for May 2018 and to make production predictions using machine learning models.
 
@@ -72,9 +72,9 @@ At the end of the project, the performances of different models were compared, a
 This project is licensed under the [MIT License](LICENSE).
 
 ## 🔍 Code And Kaggle Link
-Project: []()
+Project: [energy_amount_prediction.ipynb](https://github.com/omerfarukyuce/Solar-Power-Plant-Electricity-Production-Amounts-May-2018-Prediction-Machine-Learning-/blob/main/energy_amount_prediction.ipynb)
 
-Kaggle: []()
+Kaggle: [may_2018_energy_amount_prediction](https://www.kaggle.com/code/merfarukyce/may-2018-energy-amount-prediction)
 
 ## 📊 Datasets
-Dataset: [Dataset]()
+Dataset: [Dataset](https://data.ibb.gov.tr/dataset/ikitelli-gunes-enerjisi-santrali-elektrik-uretim-miktarlari)
