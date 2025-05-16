@@ -8,7 +8,7 @@ This project is developed to analyze the electricity production data of the **Ik
 - [Dataset](#-dataset)
 - [Methodology Overview](#-methodology-overview)
 - [Libraries Used](#-libraries-used)
-- [Modeling](#modeling)
+- [Modeling](#-modeling)
 - [Results](#results)
 
 ## 🚀 Installation
