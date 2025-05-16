@@ -6,6 +6,7 @@ This project is developed to analyze the electricity production data of the **Ik
 
 - [Installation](#installation)
 - [Dataset](#dataset)
+- [Methodology Overview](#methodology-overview)
 - [Libraries Used](#libraries-used)
 - [Modeling](#modeling)
 - [Results](#results)
@@ -48,6 +49,27 @@ The project utilizes two primary data sources:
    - 🌪️ **Wind Speed:** km/h
    - 🌧️ **Precipitation:** mm
    - ☀️ **Sun Hours:** Hours of sunlight
+  
+## 🔬 Methodology Overview
+1. **🧹 Data Preprocessing**
+   - Cleaning and organizing raw data
+   - Feature engineering
+   - Time series analysis
+
+2. **📊 Exploratory Data Analysis**
+   - Correlation studies
+   - Pattern identification
+   - Seasonal trend analysis
+
+3. **🤖 Model Development**
+   - Multiple algorithm implementation
+   - Hyperparameter tuning
+   - Cross-validation
+
+4. **📈 Performance Evaluation**
+   - Model comparison
+   - Error analysis
+   - Prediction accuracy assessment
 
 ## 📦 Libraries Used
 
