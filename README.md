@@ -1,4 +1,4 @@
-# 🌞 Ikitelli Solar Energy Production Analysis
+# 🌞Solar Power Plant Production Analysis&Prediction⚡
 
 This project is developed to analyze the electricity production data of the **Ikıtelli Solar Energy Plant** for May 2018 and to make production predictions using machine learning models.
 
