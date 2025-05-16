@@ -34,11 +34,20 @@ To install the necessary libraries for the project, you can use the following co
 
 ## 📊 Dataset
 
-The dataset contains the electricity production amounts obtained from the Ikıtelli Solar Energy Plant. Additionally, weather data has been included in the project. The dataset is read from an Excel file and converted to CSV format.
+The project utilizes two primary data sources:
 
-- **Data Source:** Ikıtelli Solar Energy Plant
-- **Data Type:** Electricity production amounts and weather data
-- **Period:** May 2018
+1. **⚡ Production Data**
+   - 📅 **Time Period:** May 2018
+   - ⏱️ **Interval:** 15-minute measurements
+   - ⚡ **Production values:** kilowatt-hours (kWh)
+
+2. **🌤️ Weather Data**
+   - 🌡️ **Temperature:** Maximum, minimum, and real-time
+   - ☁️ **Cloud Cover:** Percentage
+   - 💧 **Humidity:** Levels
+   - 🌪️ **Wind Speed:** km/h
+   - 🌧️ **Precipitation:** mm
+   - ☀️ **Sun Hours:** Hours of sunlight
 
 ## 📦 Libraries Used
 
