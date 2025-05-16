@@ -1,6 +1,8 @@
 # 🌞Solar Power Plant Production Analysis&Prediction⚡
 
-This project is developed to analyze the electricity production data of the **Ikıtelli Solar Energy Plant** for May 2018 and to make production predictions using machine learning models.
+## 🎯 Project Overview
+
+This analysis aims to predict solar power production using weather data and advanced machine learning techniques. By combining high-resolution production data (collected at 15-minute intervals) with comprehensive weather parameters, we develop models that can accurately forecast power generation.
 
 ## 📚 Table of Contents
 
